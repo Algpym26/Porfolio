@@ -23,5 +23,5 @@ https://algpym26.github.io/first-class-project/
 
 ## credits
 
-to my awosome instructors Jaime and Austin
+to my awsome instructors Jaime and Austin
 (hope to get extra credits for mention them! lol)
