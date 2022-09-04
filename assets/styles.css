@@ -1,17 +1,64 @@
-header{ 
-    background-color: rgb(222, 142, 119);
+  header{ 
+    margin-bottom: 20px;
+    background-color: rgb(194, 194, 242);
     display: flex;
     justify-content: space-between;
 
 }
+
 header nav ul{
     display: flex;
     justify-content: space-between;
+}
+    .icon{
+        width: 200px;
+        float: left;
+        height: 70px;
+    }
+
+    .logo{
+        color: #ff7200;
+        font-size: 35px;
+        padding-left: 20px;
+        float: left;
+        padding-top: 10px;
+    }
+    .menu{ 
+        width: 400px;
+        float: left;
+        height: 70px;
+    }
+
 
     
-}
+
 ul li {
-    padding: 10px;
+    padding: 10px 30px;
     list-style: none;
+   
+
+}
+.about{
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    border: solid black;
+    display: flex;
+    justify-content: space-between;
+
     
+
+
+}
+img{
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+
+}
+.about-text{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+
 }
